@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "E:\\as_space\\test_sapce\\android-signaturepad\\signature-pad\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 40,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "E:\\as_space\\test_sapce\\android-signaturepad\\signature-pad\\build\\intermediates\\exploded-aar\\com.android.databinding\\library\\1.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 56,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "E:\\as_space\\test_sapce\\android-signaturepad\\signature-pad\\build\\intermediates\\exploded-aar\\com.android.databinding\\adapters\\1.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 42,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "E:\\as_space\\test_sapce\\android-signaturepad\\signature-pad\\build\\intermediates\\exploded-aar\\com.android.databinding\\adapters\\1.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 42,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 40,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "E:\\as_space\\test_sapce\\android-signaturepad\\signature-pad\\build\\intermediates\\exploded-aar\\com.android.databinding\\adapters\\1.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 40,
+                        "endOffset": 191
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\as_space\\test_sapce\\SignPadApp\\signature-pad\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 40,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\c7d3fa2761e2d703176c9d99fef8b456bac654a0\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 56,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\e7988c2597caa66fd088fea8d806519642ca372d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 42,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\e7988c2597caa66fd088fea8d806519642ca372d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 42,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 40,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "C:\\Users\\acer\\.android\\build-cache\\e7988c2597caa66fd088fea8d806519642ca372d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 40,
+                        "endOffset": 191
+                    }
+                }
+            }
+        ]
+    }
+]
